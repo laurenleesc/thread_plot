@@ -5,6 +5,7 @@ import pandas as pd
 # Third-party libraries
 from matplotlib import pyplot as plt
 from matplotlib.cm import Dark2
+#https://matplotlib.org/stable/tutorials/colors/colormaps.html
 
 # Custom modules
 from thread_plot import thread_plot
